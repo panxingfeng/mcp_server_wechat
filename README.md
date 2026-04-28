@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/panxingfeng-mcp-server-wechat-badge.png)](https://mseep.ai/app/panxingfeng-mcp-server-wechat)
+
 # MCP Server WeChat
 基于MCP技术的微信聊天记录获取和消息发送功能的服务器，使用[pywechat](https://github.com/Hello-Mr-Crab/pywechat)工具实现微信自动化操作。
 
